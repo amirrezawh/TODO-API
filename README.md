@@ -16,5 +16,5 @@ Simple To Do API with DRF!
 #### /api/update/id/
 - `PUT`: Update task by id
 - `/api/update/1/`
-### /api/list/archive/
+#### /api/list/archive/
 - `GET`: List of archived tasks
